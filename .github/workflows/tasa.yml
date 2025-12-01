@@ -33,15 +33,15 @@ jobs:
         run: |
           python scripts/fetch_bcv_rate.py
 
-      - name: Commit and push tasa.json
+      - name: Commit and push rate.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git status --porcelain | grep -q "tasa.json"; then
-            git add tasa.json
-            git commit -m "Auto: actualizar tasa.json (BCV) - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          if git status --porcelain | grep -q "rate.json"; then
+            git add rate.json
+            git commit -m "Auto: actualizar rate.json (BCV) - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
             git push
           else
             echo "No changes to commit"
