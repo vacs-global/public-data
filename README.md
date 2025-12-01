@@ -1,5 +1,5 @@
 # public-data
-Repositorio de datos públicos de Venezuela usado por servicios de VACS.
+Repositorio de datos públicos de Venezuela usado por servicios de *VACS Global*.
 
 Propósito
 --------
