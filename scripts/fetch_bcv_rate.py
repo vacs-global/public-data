@@ -79,6 +79,7 @@ def find_rate(text: str):
 
 
 def main():
+    ssl_unverified = False
     try:
         print(f"Usando verify={_VERIFY}")
         resp = requests.get(URL, timeout=20, verify=_VERIFY)
@@ -90,7 +91,23 @@ def main():
             print("También puede exportar SSL_CERT_FILE/REQUESTS_CA_BUNDLE apuntando al bundle de CA.", file=sys.stderr)
         else:
             print("Se detectó 'certifi', pero la verificación SSL falló. Intente instalar 'certifi-win32' o actualizar su store de certificados.", file=sys.stderr)
-        sys.exit(1)
+
+        # Como último recurso para entornos CI (GitHub Actions), podemos reintentar
+        # desactivando la verificación SSL. Esto NO es recomendable en entornos
+        # locales/producción, pero permite que el workflow continúe si el host
+        # remoto tiene problemas en la cadena de certificados.
+        is_ci = os.getenv("GITHUB_ACTIONS") == "true" or os.getenv("CI") == "true"
+        if is_ci:
+            print("Entorno CI detectado: reintentando la petición con verify=False (NO recomendado).", file=sys.stderr)
+            try:
+                resp = requests.get(URL, timeout=20, verify=False)
+                resp.raise_for_status()
+                ssl_unverified = True
+            except Exception as e2:
+                print("Reintento sin verificación SSL falló:", e2, file=sys.stderr)
+                sys.exit(1)
+        else:
+            sys.exit(1)
     except Exception as e:
         print("Error fetching BCV site:", e, file=sys.stderr)
         sys.exit(1)
