@@ -7,6 +7,9 @@ on:
     - cron: '0 21 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -33,10 +36,9 @@ jobs:
       - name: Commit and push tasa.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EMAIL: ${{ secrets.EMAIL }}
         run: |
-          git config user.name "Juan Rivas"
-          git config user.email "$EMAIL"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git status --porcelain | grep -q "tasa.json"; then
             git add tasa.json
             git commit -m "Auto: actualizar tasa.json (BCV) - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
