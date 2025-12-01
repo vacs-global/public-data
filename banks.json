@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Banco Central de Venezuela",
+    "code": "0001"
+  },
+  {
+    "name": "Banco Industrial de Venezuela",
+    "code": "0003"
+  },
+  {
+    "name": "Banco Guayana",
+    "code": "0008"
+  },
+  {
+    "name": "Banco de Venezuela",
+    "code": "0102"
+  },
+  {
+    "name": "Banco Venezolano de Crédito",
+    "code": "0104"
+  },
+  {
+    "name": "Banco Mercantil",
+    "code": "0105"
+  },
+  {
+    "name": "BBVA Banco Provincial",
+    "code": "0108"
+  },
+  {
+    "name": "BanCaribe",
+    "code": "0114"
+  },
+  {
+    "name": "Banco Exterior",
+    "code": "0115"
+  },
+  {
+    "name": "Banco Caroní",
+    "code": "0128"
+  },
+  {
+    "name": "Banesco",
+    "code": "0134"
+  },
+  {
+    "name": "Banco Sofitasa",
+    "code": "0137"
+  },
+  {
+    "name": "Banco Plaza",
+    "code": "0138"
+  },
+  {
+    "name": "BanGente",
+    "code": "0146"
+  },
+  {
+    "name": "Banco Fondo Común (BFC)",
+    "code": "0151"
+  },
+  {
+    "name": "100% Banco",
+    "code": "0156"
+  },
+  {
+    "name": "Del Sur",
+    "code": "0157"
+  },
+  {
+    "name": "Banco del Tesoro",
+    "code": "0163"
+  },
+  {
+    "name": "Banco Agrícola de Venezuela",
+    "code": "0166"
+  },
+  {
+    "name": "BanCrecer, Banco de Desarrolo",
+    "code": "0168"
+  },
+  {
+    "name": "R4, Banco Microfinanciero, C.A.",
+    "code": "0169"
+  },
+  {
+    "name": "Banco Activo",
+    "code": "0171"
+  },
+  {
+    "name": "Bancamiga Banco Universal, C.A.",
+    "code": "0172"
+  },
+  {
+    "name": "Banco Internacional de Desarrollo",
+    "code": "0173"
+  },
+  {
+    "name": "BanPlus, Banco Comercial",
+    "code": "0174"
+  },
+  {
+    "name": "Banco Digital de los Trabajadores, Banco Universal, C.A. ",
+    "code": "0175"
+  },
+  {
+    "name": "Novo Banco, S.A. Sucursal Venezuela, Banco Universal",
+    "code": "0176"
+  },
+  {
+    "name": "Banco de las Fuerzas Armadas",
+    "code": "0177"
+  },
+  {
+    "name": "N58 Banco Digital, Banco Microfinanciero, S.A.",
+    "code": "0178"
+  },
+  {
+    "name": "Banco Nacional de Crédito, C.A. Banco Universal",
+    "code": "0191"
+  },
+  {
+    "name": "ABN-AMRO Bank",
+    "code": "0196"
+  },
+  {
+    "name": "Instituto Municipal de Crédito Popular",
+    "code": "0601"
+  }
+]
