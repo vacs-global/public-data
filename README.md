@@ -9,3 +9,4 @@ Archivos
 --------
 
 - `banks.json`: [banks.json](./banks.json) — contiene una lista de bancos (nombre y código) en formato JSON, usada por servicios que necesitan validar o mostrar información bancaria.
+- `tasa.json`: [tasa.json](./tasa.json) — contiene la tasa oficial del USD publicada desde la página del BCV. Generada automáticamente por un GitHub Action diario; el JSON incluye `date`, `rate`, `source` y `fetched_at` (y `ssl_verified` cuando aplica).
