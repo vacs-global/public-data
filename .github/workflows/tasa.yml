@@ -40,9 +40,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add rate.json rate_history.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
+          if ! git diff --cached --quiet; then
             git commit -m "Auto: actualizar rate.json y rate_history.json (BCV) - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
             git push
+          else
+            echo "No changes to commit"
           fi
