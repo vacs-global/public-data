@@ -137,8 +137,26 @@ def main():
     try:
         with open(history_path, "r", encoding="utf-8") as f:
             history = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
+    except FileNotFoundError:
         history = []
+    except json.JSONDecodeError as e:
+        backup_path = f"{history_path}.corrupt.{now.strftime('%Y%m%dT%H%M%SZ')}"
+        print(
+            f"Error: {history_path} está corrupto o incompleto y no se sobrescribirá: {e}",
+            file=sys.stderr,
+        )
+        try:
+            os.replace(history_path, backup_path)
+            print(
+                f"Se movió el archivo corrupto a {backup_path} para revisión manual.",
+                file=sys.stderr,
+            )
+        except OSError as rename_error:
+            print(
+                f"No se pudo respaldar {history_path}: {rename_error}",
+                file=sys.stderr,
+            )
+        sys.exit(1)
 
     # Avoid duplicate entries for the same date
     if not any(entry.get("date") == data["date"] for entry in history):
