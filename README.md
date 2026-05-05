@@ -10,3 +10,4 @@ Archivos
 
 - `banks.json`: [banks.json](./banks.json) — contiene una lista de bancos (nombre y código) en formato JSON, usada por servicios que necesitan validar o mostrar información bancaria.
 - `rate.json`: [rate.json](./rate.json) — contiene la tasa oficial del USD publicada desde la página del BCV. Generada automáticamente por un GitHub Action diario; el JSON incluye `date`, `rate`, `source` y `fetched_at`.
+- `rate_history.json`: [rate_history.json](./rate_history.json) — historial acumulado de tasas del USD. Cada entrada registra los mismos campos que `rate.json` (`date`, `rate`, `source`, `fetched_at`). El archivo normalmente crece con una nueva entrada por día y busca conservar las entradas históricas existentes.

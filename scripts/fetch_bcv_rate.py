@@ -133,6 +133,40 @@ def main():
 
     print("rate.json escrito:", data)
 
+    history_path = "rate_history.json"
+    try:
+        with open(history_path, "r", encoding="utf-8") as f:
+            history = json.load(f)
+    except FileNotFoundError:
+        history = []
+    except json.JSONDecodeError as e:
+        backup_path = f"{history_path}.corrupt.{now.strftime('%Y%m%dT%H%M%SZ')}"
+        print(
+            f"Error: {history_path} está corrupto o incompleto y no se sobrescribirá: {e}",
+            file=sys.stderr,
+        )
+        try:
+            os.replace(history_path, backup_path)
+            print(
+                f"Se movió el archivo corrupto a {backup_path} para revisión manual.",
+                file=sys.stderr,
+            )
+        except OSError as rename_error:
+            print(
+                f"No se pudo respaldar {history_path}: {rename_error}",
+                file=sys.stderr,
+            )
+        sys.exit(1)
+
+    # Avoid duplicate entries for the same date
+    if not any(entry.get("date") == data["date"] for entry in history):
+        history.append(data)
+        with open(history_path, "w", encoding="utf-8") as f:
+            json.dump(history, f, ensure_ascii=False, indent=2)
+        print(f"{history_path} actualizado con {len(history)} entradas.")
+    else:
+        print(f"Ya existe una entrada para {data['date']} en {history_path}. No se agregó duplicado.")
+
 
 if __name__ == "__main__":
     main()
