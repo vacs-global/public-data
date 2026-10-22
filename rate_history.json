@@ -982,5 +982,11 @@
     "rate": 884.7496,
     "source": "https://www.bcv.org.ve/",
     "fetched_at": "2026-10-21T23:55:09.181739+00:00"
+  },
+  {
+    "date": "2026-10-22",
+    "rate": 886.2271,
+    "source": "https://www.bcv.org.ve/",
+    "fetched_at": "2026-10-22T23:53:05.005409+00:00"
   }
 ]
