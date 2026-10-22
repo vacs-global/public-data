@@ -102,10 +102,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/06-jue22-info.mp4",
-    "caption": "«Info.» Y nada más. 🙃\nY después: ¿hacen delivery? ¿cómo pago? ¿dónde están?\n\nCon vacs. todo eso ya está en tu link: delivery, zonas, formas de pago y tu catálogo. Quien te escribe, te escribe para comprar.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/anuncio-3fotos-dm-9x16.mp4",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "cover_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/anuncio-3fotos-portada.jpg",
+    "caption": "Mándame 3 fotos de lo que vendes y tu tienda queda lista. 📸\nCada una con su precio.\n\nYo te la armo: tu catálogo en un link, carrito, pedido directo a tu WhatsApp y precios en $ y Bs.\n\nGratis. Escríbeme TIENDA por DM 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
    }
   },
   {
@@ -121,10 +121,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n4-te-la-armo.mp4",
-    "caption": "¿Vendes por Instagram? Escríbeme TIENDA por DM y te la armo gratis 👇\n\nMe mandas 3 fotos de lo que vendes, cada una con su precio. Te devuelvo tu link con el catálogo, los precios en $ y Bs, y los pedidos te llegan armados a WhatsApp.\n\nLa tienda gratis no vence. Y no necesitas saber de tecnología.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n23-precio-47-veces.mp4",
+    "caption": "47 veces «precio» en un día. 🙃\nY a cada uno hay que responderle lo mismo.\n\nCon vacs. tu link responde por ti: tu catálogo con los precios en $ y Bs., y el pedido te llega armado a WhatsApp.\n\nGratis. Escríbeme TIENDA por DM y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1200
+    "thumb_offset": 3500
    }
   },
   {
@@ -140,10 +140,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/08-sab24-delivery.mp4",
-    "caption": "«¿Cuánto me cobras a Las Delicias?» 🛵\n¿Y a El Limón? ¿Y a Turmero?\n\nEn vacs. pones tus zonas con su precio. Tu cliente escoge la suya y se suma sola al total, en $ y en Bs.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n24-cuanto-me-cobras.mp4",
+    "caption": "«¿Cuánto me cobras a Las Delicias?» 🛵\n¿Y a El Limón? ¿Y a Turmero?\n\nCon vacs. pones tus zonas de delivery con su precio una sola vez. El cliente elige la suya y el delivery se suma solo al total.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 1000
    }
   },
   {
@@ -159,10 +159,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/09-dom25-verificada.mp4",
-    "caption": "«¿Y esto no será estafa?» 😬\nNormal: hay mucho.\n\nEn vacs. puedes tener la insignia amarilla de tienda verificada. La damos a mano, después de revisar tu WhatsApp y tu Instagram. Tus clientes la ven y compran tranquilos.\n\nComenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n25-no-sera-estafa.mp4",
+    "caption": "«¿Y esto no será estafa?» 😬\nNormal que pregunten: hay mucho.\n\nEn tu tienda de vacs. el cliente ve tus precios claros y, al pedir, tus datos de pago. Y puedes pedir la insignia amarilla: la damos a mano, después de revisar tu WhatsApp y tu Instagram.\n\nCrea tu tienda gratis en vacs.dev 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 1200
    }
   },
   {
@@ -178,10 +178,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/10-lun26-cupon.mp4",
-    "caption": "«¿Me haces un descuentico?» 🏷️\nCada cliente, cada día.\n\nCon vacs. Pro creas cupones como KARINA10. Tu cliente lo escribe al pedir y el descuento se aplica solo, sin cuentas a mano.\n\nPro: $3 al mes. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n26-descuentico.mp4",
+    "caption": "«¿Me haces un descuentico?» 🏷️\nCada cliente, cada día.\n\nCon vacs. el descuento ya está en tu link: ofertas con fecha que se quitan solas y precio al mayor desde las unidades que tú digas. Sin regatear por DM.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 1000
    }
   },
   {
@@ -197,10 +197,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/11-mar27-catalogo.mp4",
-    "caption": "«¿Me mandas foto de todo?» 📸\n47 fotos después…\n\nCon vacs. tu catálogo vive en un link: destacados, ofertas con precio tachado y todo por categorías. Mandas el link y listo.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n27-foto-de-todo.mp4",
+    "caption": "«¿Me mandas foto de todo?» 📸\n40 fotos después: «¿y la foto 23 cuánto es?»\n\nCon vacs. mandas un solo link: cada foto con su precio en $ y Bs., y lo agotado se marca solo.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 1600
    }
   },
   {
@@ -216,10 +216,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/12-mie28-precio.mp4",
-    "caption": "«¿Y cuánto me cuesta?» 💸\n$0. En serio.\n\nvacs. es gratis para siempre: 12 productos, 15 links, pedidos por WhatsApp y precios en $ y Bs. Sin tarjeta y sin comisión por venta.\nSi quieres más, Pro cuesta $3 al mes.\n\nComenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n28-cuanto-me-cuesta.mp4",
+    "caption": "«¿Y en bolívares?» 💸\nEn octubre la tasa BCV cambió 15 veces en 22 días.\n\nCon vacs. pones tus precios en $ y los Bs. se calculan solos con la tasa del día: BCV, euro, Binance o la tuya.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 7600
    }
   },
   {
@@ -235,10 +235,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/13-jue29-mientras-duermes.mp4",
-    "caption": "¿Y si te compran a las 3 a. m.? 🌙\nSin que tengas que responder.\n\nCon vacs. tu tienda no duerme: tu cliente arma su pedido, ve cuánto es y cómo pagarte, y te llega listo por WhatsApp.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n29-3am.mp4",
+    "caption": "¿Y si te compran a las 3 a. m.? 🌙\nTú durmiendo y tu link vendiendo.\n\nCon vacs. el cliente pide solo desde tu catálogo y a tu teléfono le llega el aviso con el pedido. En la mañana, ahí está.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 1500
    }
   },
   {
@@ -254,10 +254,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/14-vie30-quincena.mp4",
-    "caption": "Llegó la quincena 💸\nTodos quieren comprar YA. ¿Y tú respondiendo DMs?\n\nCon tu tienda en el link de tu bio ven tus ofertas con precio tachado, eligen y te mandan el pedido armado. Deja que compren solos.\n\nGratis. Comenta TIENDA y te la armo hoy 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n30-quincena.mp4",
+    "caption": "Llegó la quincena 💸\nY te escriben todos a la vez.\n\nCon tu link de vacs., cada quien pide solo: elige, ve el precio en $ y Bs. y te manda el pedido armado. Tú atiendes en orden.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 2200
    }
   },
   {
@@ -273,10 +273,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/15-sab31-halloween.mp4",
-    "caption": "Lo más terrorífico para un emprendedor 🎃\n«¿Precio?»… y te deja en visto.\n\nCon vacs. el precio ya está en tu link, en $ y en Bs. Quien te escribe es porque ya quiere comprar. Tu tienda abierta las 24 horas, sin sustos.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n31-halloween.mp4",
+    "caption": "Los 3 sustos del emprendedor 🎃\n1. El visto.\n2. «Guárdamela, que el viernes te pago».\n3. La tasa.\n\nCon vacs. el cliente pide solo, ve al instante cómo pagarte y tus precios en Bs. se actualizan con la tasa del día.\n\nSin sustos: crea tu tienda gratis en vacs.dev 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 800
    }
   },
   {
@@ -350,39 +350,6 @@
      "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-6.jpg"
     ],
     "caption": "Tu tienda lista para la quincena ✅ Tacha cada paso y guárdalo para el 30.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
-   }
-  },
-  {
-   "date": "2026-10-24",
-   "slot": "reel-nuevo",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n1-tipos-de-precio.mp4",
-    "caption": "¿Cuál te escribió hoy? Responde con el número 👇\n\nSi vendes por Instagram o WhatsApp en Venezuela, esta semana te tocaron los 6. El 5 es el que más duele.\n\nCon tus precios a la vista, en dólares y en bolívares, te escriben para comprar. Tu tienda gratis en vacs.dev\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 300
-   }
-  },
-  {
-   "date": "2026-10-25",
-   "slot": "reel-nuevo",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n2-siete-trabajos.mp4",
-    "caption": "Mándaselo a quien hace los 7 👇\n\nVender por Instagram en Venezuela es hacer las fotos, el delivery, la cobranza y las cuentas a la vez. Y además, vender.\n\nUno te lo puedes quitar: en vacs. pones tus precios en dólares y tu tienda muestra el total en bolívares con la tasa del día. Gratis, en vacs.dev\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 300
-   }
-  },
-  {
-   "date": "2026-10-26",
-   "slot": "reel-nuevo",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n3-respuesta.mp4",
-    "caption": "Guarda esta respuesta de 2 líneas para el próximo «precio» sin saludo 👇\n\n«¡Hola! Gracias por escribir. Aquí están mis precios, con foto y en Bs: [tu link]. ¿Cuál te gustó?»\n\nSaludas aunque no te saludaron, le das todo de una vez y terminas con una pregunta. La conversación sigue y no te dejan en visto.\n\n¿No tienes ese link? Créalo gratis en vacs.dev, la tienda en un link hecha en Venezuela, con precios en $ y Bs.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 300
    }
   }
  ]
