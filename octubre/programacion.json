@@ -121,10 +121,10 @@
    "slot": "reel",
    "action": "create_video_post",
    "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/07-vie23-links.mp4",
-    "caption": "Tu bio deja 1 link. Tú tienes 7. 🔗\n\nCon vacs. pones todos en una sola página: Instagram, TikTok, YouTube, WhatsApp, tu web… Cada uno con su ícono, y ves cuántas veces tocan cada link.\n\nY si algún día vendes algo, la misma página se vuelve tienda.\nGratis. Comenta LINKS y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n4-te-la-armo.mp4",
+    "caption": "¿Vendes por Instagram? Escríbeme TIENDA por DM y te la armo gratis 👇\n\nMe mandas 3 fotos de lo que vendes, cada una con su precio. Te devuelvo tu link con el catálogo, los precios en $ y Bs, y los pedidos te llegan armados a WhatsApp.\n\nLa tienda gratis no vence. Y no necesitas saber de tecnología.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
     "share_to_feed": true,
-    "thumb_offset": 1800
+    "thumb_offset": 1200
    }
   },
   {
