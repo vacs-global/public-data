@@ -351,6 +351,39 @@
     ],
     "caption": "Tu tienda lista para la quincena ✅ Tacha cada paso y guárdalo para el 30.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
    }
+  },
+  {
+   "date": "2026-10-24",
+   "slot": "reel-nuevo",
+   "action": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n1-tipos-de-precio.mp4",
+    "caption": "¿Cuál te escribió hoy? Responde con el número 👇\n\nSi vendes por Instagram o WhatsApp en Venezuela, esta semana te tocaron los 6. El 5 es el que más duele.\n\nCon tus precios a la vista, en dólares y en bolívares, te escriben para comprar. Tu tienda gratis en vacs.dev\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "share_to_feed": true,
+    "thumb_offset": 300
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "slot": "reel-nuevo",
+   "action": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n2-siete-trabajos.mp4",
+    "caption": "Mándaselo a quien hace los 7 👇\n\nVender por Instagram en Venezuela es hacer las fotos, el delivery, la cobranza y las cuentas a la vez. Y además, vender.\n\nUno te lo puedes quitar: en vacs. pones tus precios en dólares y tu tienda muestra el total en bolívares con la tasa del día. Gratis, en vacs.dev\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "share_to_feed": true,
+    "thumb_offset": 300
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "slot": "reel-nuevo",
+   "action": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n3-respuesta.mp4",
+    "caption": "Guarda esta respuesta de 2 líneas para el próximo «precio» sin saludo 👇\n\n«¡Hola! Gracias por escribir. Aquí están mis precios, con foto y en Bs: [tu link]. ¿Cuál te gustó?»\n\nSaludas aunque no te saludaron, le das todo de una vez y terminas con una pregunta. La conversación sigue y no te dejan en visto.\n\n¿No tienes ese link? Créalo gratis en vacs.dev, la tienda en un link hecha en Venezuela, con precios en $ y Bs.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+    "share_to_feed": true,
+    "thumb_offset": 300
+   }
   }
  ]
 }
