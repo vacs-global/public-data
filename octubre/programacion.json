@@ -1,356 +1,378 @@
 {
- "account": "17841423867745062",
- "connector": "instagram",
- "items": [
-  {
-   "date": "2026-10-17",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/01-sab17-tortas.mp4",
-    "caption": "¿Y en bolívares cuánto es? 🎂\nSi vendes tortas, esta pregunta te llega hasta a las 11 de la noche.\n\nCon vacs. cada torta muestra su precio y tu cliente ve el total en $ y en Bs, con la tasa BCV del día. Te escribe solo para pedir.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1800
-   }
-  },
-  {
-   "date": "2026-10-17",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-17-sab-2-400pm.jpg"
-   }
-  },
-  {
-   "date": "2026-10-18",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/02-dom18-unas.mp4",
-    "caption": "«¿Tienes cupo el jueves?» 💅\nY tú con las manos ocupadas, sin poder responder.\n\nCon vacs. tus clientas ven tus horarios libres y reservan solas desde el link de tu bio. Sin choques y sin ir y venir por WhatsApp.\n\nPara uñas, cejas, pestañas y consultorios. Gratis.\nComenta CITAS y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1800
-   }
-  },
-  {
-   "date": "2026-10-18",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-18-dom-2-400pm.jpg"
-   }
-  },
-  {
-   "date": "2026-10-19",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/03-lun19-ropa.mp4",
-    "caption": "«¿La tienes en M negra?» 👕\n¿Y en L? ¿Y en azul? ¿Y en 38?\n\nEn vacs. cada talla y cada color tiene su stock. Lo que se acaba se tacha solo, y tu cliente elige lo que sí tienes.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1800
-   }
-  },
-  {
-   "date": "2026-10-19",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-19-lun-2-400pm.jpg"
-   }
-  },
-  {
-   "date": "2026-10-20",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/04-mar20-pago-movil.mp4",
-    "caption": "«¿A qué número te pago?» 📲\nPor quinta vez hoy.\n\nCon vacs. tu cliente escoge cómo pagar y ve tus datos apenas hace el pedido, con un botón para copiarlos. Tú no pegas nada.\n\nVende. Anota. Cobra. Simple.\nComenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1800
-   }
-  },
-  {
-   "date": "2026-10-20",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-20-mar-2-400pm.jpg"
-   }
-  },
-  {
-   "date": "2026-10-21",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/05-mie21-barberia.mp4",
-    "caption": "«¿Hay cupo hoy?» 💈\nMientras estás cortando.\n\nCon vacs. tus clientes ven tus horarios libres, escogen la hora y llegan directo a la silla. Sin cola y sin chats.\n\nAgenda gratis. Comenta CITAS y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1800
-   }
-  },
-  {
-   "date": "2026-10-21",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-21-mie-2-400pm.jpg"
-   }
-  },
-  {
-   "date": "2026-10-22",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/anuncio-3fotos-dm-9x16.mp4",
-    "share_to_feed": true,
-    "cover_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/anuncio-3fotos-portada.jpg",
-    "caption": "Mándame 3 fotos de lo que vendes y tu tienda queda lista. 📸\nCada una con su precio.\n\nYo te la armo: tu catálogo en un link, carrito, pedido directo a tu WhatsApp y precios en $ y Bs.\n\nGratis. Escríbeme TIENDA por DM 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
-   }
-  },
-  {
-   "date": "2026-10-22",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-22-jue-2-400pm.jpg"
-   }
-  },
-  {
-   "date": "2026-10-23",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n23-precio-47-veces.mp4",
-    "caption": "47 veces «precio» en un día. 🙃\nY a cada uno hay que responderle lo mismo.\n\nCon vacs. tu link responde por ti: tu catálogo con los precios en $ y Bs., y el pedido te llega armado a WhatsApp.\n\nGratis. Escríbeme TIENDA por DM y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 3500
-   }
-  },
-  {
-   "date": "2026-10-23",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc23-torta-chocolate.mp4"
-   }
-  },
-  {
-   "date": "2026-10-24",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n24-cuanto-me-cobras.mp4",
-    "caption": "«¿Cuánto me cobras a Las Delicias?» 🛵\n¿Y a El Limón? ¿Y a Turmero?\n\nCon vacs. pones tus zonas de delivery con su precio una sola vez. El cliente elige la suya y el delivery se suma solo al total.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1000
-   }
-  },
-  {
-   "date": "2026-10-24",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc24-quesillo.mp4"
-   }
-  },
-  {
-   "date": "2026-10-25",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n25-no-sera-estafa.mp4",
-    "caption": "«¿Y esto no será estafa?» 😬\nNormal que pregunten: hay mucho.\n\nEn tu tienda de vacs. el cliente ve tus precios claros y, al pedir, tus datos de pago. Y puedes pedir la insignia amarilla: la damos a mano, después de revisar tu WhatsApp y tu Instagram.\n\nCrea tu tienda gratis en vacs.dev 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1200
-   }
-  },
-  {
-   "date": "2026-10-25",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc25-marquesa-oferta.mp4"
-   }
-  },
-  {
-   "date": "2026-10-26",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n26-descuentico.mp4",
-    "caption": "«¿Me haces un descuentico?» 🏷️\nCada cliente, cada día.\n\nCon vacs. el descuento ya está en tu link: ofertas con fecha que se quitan solas y precio al mayor desde las unidades que tú digas. Sin regatear por DM.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1000
-   }
-  },
-  {
-   "date": "2026-10-26",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc26-tres-leches.mp4"
-   }
-  },
-  {
-   "date": "2026-10-27",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n27-foto-de-todo.mp4",
-    "caption": "«¿Me mandas foto de todo?» 📸\n40 fotos después: «¿y la foto 23 cuánto es?»\n\nCon vacs. mandas un solo link: cada foto con su precio en $ y Bs., y lo agotado se marca solo.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1600
-   }
-  },
-  {
-   "date": "2026-10-27",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc27-brownies-al-mayor.mp4"
-   }
-  },
-  {
-   "date": "2026-10-28",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n28-cuanto-me-cuesta.mp4",
-    "caption": "«¿Y en bolívares?» 💸\nEn octubre la tasa BCV cambió 15 veces en 22 días.\n\nCon vacs. pones tus precios en $ y los Bs. se calculan solos con la tasa del día: BCV, euro, Binance o la tuya.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 7600
-   }
-  },
-  {
-   "date": "2026-10-28",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc28-torta-zanahoria.mp4"
-   }
-  },
-  {
-   "date": "2026-10-29",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n29-3am.mp4",
-    "caption": "¿Y si te compran a las 3 a. m.? 🌙\nTú durmiendo y tu link vendiendo.\n\nCon vacs. el cliente pide solo desde tu catálogo y a tu teléfono le llega el aviso con el pedido. En la mañana, ahí está.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 1500
-   }
-  },
-  {
-   "date": "2026-10-29",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc29-pie-de-limon.mp4"
-   }
-  },
-  {
-   "date": "2026-10-30",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n30-quincena.mp4",
-    "caption": "Llegó la quincena 💸\nY te escriben todos a la vez.\n\nCon tu link de vacs., cada quien pide solo: elige, ve el precio en $ y Bs. y te manda el pedido armado. Tú atiendes en orden.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 2200
-   }
-  },
-  {
-   "date": "2026-10-30",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc30-catalogo.mp4"
-   }
-  },
-  {
-   "date": "2026-10-31",
-   "slot": "reel",
-   "action": "create_video_post",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n31-halloween.mp4",
-    "caption": "Los 3 sustos del emprendedor 🎃\n1. El visto.\n2. «Guárdamela, que el viernes te pago».\n3. La tasa.\n\nCon vacs. el cliente pide solo, ve al instante cómo pagarte y tus precios en Bs. se actualizan con la tasa del día.\n\nSin sustos: crea tu tienda gratis en vacs.dev 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
-    "share_to_feed": true,
-    "thumb_offset": 800
-   }
-  },
-  {
-   "date": "2026-10-31",
-   "slot": "tarde",
-   "action": "create_story",
-   "params": {
-    "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc31-golfeados-agotado.mp4"
-   }
-  },
-  {
-   "date": "2026-10-20",
-   "slot": "mediodia",
-   "action": "create_carousel_post",
-   "params": {
-    "image_urls": [
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-1.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-2.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-3.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-4.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-5.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-6.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-7.jpg"
-    ],
-    "caption": "5 cosas que te hacen perder ventas por DM 👇 La 5 es la más común. Guárdalo y mándaselo a ese pana que vende por Instagram.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
-   }
-  },
-  {
-   "date": "2026-10-23",
-   "slot": "mediodia",
-   "action": "create_carousel_post",
-   "params": {
-    "image_urls": [
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-1.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-2.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-3.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-4.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-5.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-6.jpg"
-    ],
-    "caption": "Así pones tu link en la bio en 30 segundos 🔗 Guárdalo para cuando tengas tu tienda.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
-   }
-  },
-  {
-   "date": "2026-10-27",
-   "slot": "mediodia",
-   "action": "create_carousel_post",
-   "params": {
-    "image_urls": [
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-1.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-2.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-3.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-4.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-5.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-6.jpg"
-    ],
-    "caption": "Gratis vs. Pro, sin letra pequeña. Empiezas en $0 y te quedas en $0 si quieres. Pro es $3 al mes.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
-   }
-  },
-  {
-   "date": "2026-10-29",
-   "slot": "mediodia",
-   "action": "create_carousel_post",
-   "params": {
-    "image_urls": [
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-1.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-2.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-3.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-4.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-5.jpg",
-     "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-6.jpg"
-    ],
-    "caption": "Tu tienda lista para la quincena ✅ Tacha cada paso y guárdalo para el 30.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
-   }
-  }
- ]
+  "account": "17841423867745062",
+  "connector": "instagram",
+  "items": [
+    {
+      "date": "2026-10-17",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/01-sab17-tortas.mp4",
+        "caption": "¿Y en bolívares cuánto es? 🎂\nSi vendes tortas, esta pregunta te llega hasta a las 11 de la noche.\n\nCon vacs. cada torta muestra su precio y tu cliente ve el total en $ y en Bs, con la tasa BCV del día. Te escribe solo para pedir.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1800
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-17-sab-2-400pm.jpg"
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/02-dom18-unas.mp4",
+        "caption": "«¿Tienes cupo el jueves?» 💅\nY tú con las manos ocupadas, sin poder responder.\n\nCon vacs. tus clientas ven tus horarios libres y reservan solas desde el link de tu bio. Sin choques y sin ir y venir por WhatsApp.\n\nPara uñas, cejas, pestañas y consultorios. Gratis.\nComenta CITAS y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1800
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-18-dom-2-400pm.jpg"
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/03-lun19-ropa.mp4",
+        "caption": "«¿La tienes en M negra?» 👕\n¿Y en L? ¿Y en azul? ¿Y en 38?\n\nEn vacs. cada talla y cada color tiene su stock. Lo que se acaba se tacha solo, y tu cliente elige lo que sí tienes.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1800
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-19-lun-2-400pm.jpg"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/04-mar20-pago-movil.mp4",
+        "caption": "«¿A qué número te pago?» 📲\nPor quinta vez hoy.\n\nCon vacs. tu cliente escoge cómo pagar y ve tus datos apenas hace el pedido, con un botón para copiarlos. Tú no pegas nada.\n\nVende. Anota. Cobra. Simple.\nComenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1800
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-20-mar-2-400pm.jpg"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/05-mie21-barberia.mp4",
+        "caption": "«¿Hay cupo hoy?» 💈\nMientras estás cortando.\n\nCon vacs. tus clientes ven tus horarios libres, escogen la hora y llegan directo a la silla. Sin cola y sin chats.\n\nAgenda gratis. Comenta CITAS y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1800
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-21-mie-2-400pm.jpg"
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/anuncio-3fotos-dm-9x16.mp4",
+        "share_to_feed": true,
+        "cover_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/anuncio-3fotos-portada.jpg",
+        "caption": "Mándame 3 fotos de lo que vendes y tu tienda queda lista. 📸\nCada una con su precio.\n\nYo te la armo: tu catálogo en un link, carrito, pedido directo a tu WhatsApp y precios en $ y Bs.\n\nGratis. Escríbeme TIENDA por DM 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "image_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/historia-22-jue-2-400pm.jpg"
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n23-precio-47-veces.mp4",
+        "caption": "47 veces «precio» en un día. 🙃\nY a cada uno hay que responderle lo mismo.\n\nCon vacs. tu link responde por ti: tu catálogo con los precios en $ y Bs., y el pedido te llega armado a WhatsApp.\n\nGratis. Escríbeme TIENDA por DM y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 3500
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc23-torta-chocolate.mp4"
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n24-cuanto-me-cobras.mp4",
+        "caption": "«¿Cuánto me cobras a Las Delicias?» 🛵\n¿Y a El Limón? ¿Y a Turmero?\n\nCon vacs. pones tus zonas de delivery con su precio una sola vez. El cliente elige la suya y el delivery se suma solo al total.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1000
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc24-quesillo.mp4"
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n25-no-sera-estafa.mp4",
+        "caption": "«¿Y esto no será estafa?» 😬\nNormal que pregunten: hay mucho.\n\nEn tu tienda de vacs. el cliente ve tus precios claros y, al pedir, tus datos de pago. Y puedes pedir la insignia amarilla: la damos a mano, después de revisar tu WhatsApp y tu Instagram.\n\nCrea tu tienda gratis en vacs.dev 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1200
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc25-marquesa-oferta.mp4"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n26-descuentico.mp4",
+        "caption": "«¿Me haces un descuentico?» 🏷️\nCada cliente, cada día.\n\nCon vacs. el descuento ya está en tu link: ofertas con fecha que se quitan solas y precio al mayor desde las unidades que tú digas. Sin regatear por DM.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1000
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc26-tres-leches.mp4"
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n27-foto-de-todo.mp4",
+        "caption": "«¿Me mandas foto de todo?» 📸\n40 fotos después: «¿y la foto 23 cuánto es?»\n\nCon vacs. mandas un solo link: cada foto con su precio en $ y Bs., y lo agotado se marca solo.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1600
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc27-brownies-al-mayor.mp4"
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n28-cuanto-me-cuesta.mp4",
+        "caption": "«¿Y en bolívares?» 💸\nEn octubre la tasa BCV cambió 15 veces en 22 días.\n\nCon vacs. pones tus precios en $ y los Bs. se calculan solos con la tasa del día: BCV, euro, Binance o la tuya.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 7600
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc28-torta-zanahoria.mp4"
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n29-3am.mp4",
+        "caption": "¿Y si te compran a las 3 a. m.? 🌙\nTú durmiendo y tu link vendiendo.\n\nCon vacs. el cliente pide solo desde tu catálogo y a tu teléfono le llega el aviso con el pedido. En la mañana, ahí está.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1500
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc29-pie-de-limon.mp4"
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n30-quincena.mp4",
+        "caption": "Llegó la quincena 💸\nY te escriben todos a la vez.\n\nCon tu link de vacs., cada quien pide solo: elige, ve el precio en $ y Bs. y te manda el pedido armado. Tú atiendes en orden.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 2200
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc30-catalogo.mp4"
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "reel",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n31-halloween.mp4",
+        "caption": "Los 3 sustos del emprendedor 🎃\n1. El visto.\n2. «Guárdamela, que el viernes te pago».\n3. La tasa.\n\nCon vacs. el cliente pide solo, ve al instante cómo pagarte y tus precios en Bs. se actualizan con la tasa del día.\n\nSin sustos: crea tu tienda gratis en vacs.dev 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 800
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "slot": "tarde",
+      "action": "create_story",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/hc31-golfeados-agotado.mp4"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "slot": "mediodia",
+      "action": "create_carousel_post",
+      "params": {
+        "image_urls": [
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-1.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-2.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-3.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-4.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-5.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-6.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c1-perder-ventas-7.jpg"
+        ],
+        "caption": "5 cosas que te hacen perder ventas por DM 👇 La 5 es la más común. Guárdalo y mándaselo a ese pana que vende por Instagram.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "slot": "mediodia",
+      "action": "create_carousel_post",
+      "params": {
+        "image_urls": [
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-1.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-2.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-3.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-4.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-5.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c2-link-en-la-bio-6.jpg"
+        ],
+        "caption": "Así pones tu link en la bio en 30 segundos 🔗 Guárdalo para cuando tengas tu tienda.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "slot": "mediodia",
+      "action": "create_carousel_post",
+      "params": {
+        "image_urls": [
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-1.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-2.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-3.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-4.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-5.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c3-gratis-vs-pro-6.jpg"
+        ],
+        "caption": "Gratis vs. Pro, sin letra pequeña. Empiezas en $0 y te quedas en $0 si quieres. Pro es $3 al mes.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "slot": "mediodia",
+      "action": "create_carousel_post",
+      "params": {
+        "image_urls": [
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-1.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-2.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-3.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-4.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-5.jpg",
+          "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/c4-lista-quincena-6.jpg"
+        ],
+        "caption": "Tu tienda lista para la quincena ✅ Tacha cada paso y guárdalo para el 30.\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs"
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "slot": "mediodia",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n32-cuanto-vendiste.mp4",
+        "caption": "¿Cuánto vendiste hoy? 📒\nSi la respuesta es «déjame ver el cuaderno»…\n\nCon vacs. tocas lo que vendiste, dices si te pagaron en $ o en Bs. y queda anotado. Lo que te deben, a la vista. Y en Inicio, cuánto llevas en la semana.\n\nGratis. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1000
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "slot": "mediodia",
+      "action": "create_video_post",
+      "params": {
+        "video_url": "https://raw.githubusercontent.com/vacs-global/public-data/main/octubre/n33-deja-de-disenar.mp4",
+        "caption": "Deja de diseñar tus historias. 🎨\nvacs. ya te las hizo: una por producto, con tu foto, tu precio en $ o en Bs., un QR y tu link. Y el afiche con QR para tu local.\n\n¿Sales en vacs. TV? También tienes un clip de cada producto.\n\nGratis en tu Kit para Instagram. Comenta TIENDA y te la armo 👇\n\n#emprendedoresvenezolanos #ventasporinstagram #tiendaonline #vacs",
+        "share_to_feed": true,
+        "thumb_offset": 1000
+      }
+    }
+  ]
 }
