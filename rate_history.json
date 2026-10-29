@@ -1018,5 +1018,11 @@
     "rate": 888.1183,
     "source": "https://www.bcv.org.ve/",
     "fetched_at": "2026-10-28T00:14:44.667081+00:00"
+  },
+  {
+    "date": "2026-10-29",
+    "rate": 888.8909,
+    "source": "https://www.bcv.org.ve/",
+    "fetched_at": "2026-10-29T00:36:28.332252+00:00"
   }
 ]
